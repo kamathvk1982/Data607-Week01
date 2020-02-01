@@ -1,6 +1,6 @@
 # Data607-Week01
 Data607-Week01 Assignment - Basic Loading and Transformation
----
+
 title: "Data607-Week01 Assignment - Basic Loading and Transformation"
 author: "Vinayak Kamath"
 date: "1/31/2020"
@@ -12,6 +12,6 @@ output:
     - multirow
   html_document:
     df_print: paged
----
 
-Dataset : endorsements-2020.csv
+
+Dataset : endorsements-2020.csv  [Original Source : https://projects.fivethirtyeight.com/endorsements-2020-data/endorsements-2020.csv]
